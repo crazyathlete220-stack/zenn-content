@@ -8,7 +8,7 @@
 
 ## 公開のしかた
 
-1. [Zenn](https://zenn.dev) に Google ログインでアカウント作成（ユーザー名: `hiro_dev`）
+1. [Zenn](https://zenn.dev) に Google ログインでアカウント作成（ユーザー名: `ai_lifehackdays`）
 2. [デプロイ設定](https://zenn.dev/dashboard/deploys) でこのリポジトリを連携
 3. 公開したい記事の frontmatter を `published: true` に変更して push
 
