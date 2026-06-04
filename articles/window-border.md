@@ -14,6 +14,8 @@ published: true
 
 作ったものはこれです。
 
+![アプリごとに色の枠がついて、どのウィンドウがどのアプリか一目で分かる](/images/window-border-demo.png)
+
 https://github.com/crazyathlete220-stack/window-border
 
 ## やってること
