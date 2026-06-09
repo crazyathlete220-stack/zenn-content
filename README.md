@@ -20,4 +20,9 @@ npx zenn-cli preview
 
 ## 記事一覧
 
-- `articles/ytmeta-youtube-cli.md` — ytmeta（YouTubeメタデータ一括管理CLI）の紹介。現在 `published: false`（下書き）
+すべて公開済み（`published: true`）。
+
+- `articles/macos-usb-slow-fat32-exfat.md` — 激遅だったUSBメモリを計測で切り分け、FAT32→exFATで書き込み41倍に
+- `articles/revive-imac-as-display.md` — 2011年のiMacを2枚目ディスプレイとして蘇らせた（macOS仮想ディスプレイ自作）
+- `articles/window-border.md` — アプリごとにウィンドウへ色枠をつけて見分けるツール
+- `articles/ytmeta-youtube-cli.md` — YouTubeメタデータ一括編集を「事故らない」CLIにした（ytmeta）
